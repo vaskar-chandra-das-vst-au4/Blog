@@ -1,0 +1,43 @@
+img {
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+h3 {
+  text-align: center;
+  margin: 0%;
+  font-family: "Sacramento", cursive;
+  font-size: 30px;
+}
+h4 {
+  color: white;
+  font-family: "Sacramento", cursive;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+.breaker {
+  border: dotted 2px grey;
+  border-bottom: 0;
+  width: 80%;
+}
+.box {
+  border: 2px solid grey;
+  margin: 2px;
+  width: 30%;
+  padding: 5px;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: rgb(235, 78, 78);
+  text-align: justify;
+}
+.container {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
